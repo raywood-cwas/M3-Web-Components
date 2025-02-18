@@ -1,0 +1,66 @@
+:root {
+  /* Colors */
+  --md-sys-color-primary: #6750a4;
+  --md-sys-color-on-primary: #ffffff;
+  --md-sys-color-primary-container: #eaddff;
+  --md-sys-color-on-primary-container: #21005d;
+  --md-sys-color-secondary: #625b71;
+  --md-sys-color-on-secondary: #ffffff;
+  --md-sys-color-secondary-container: #e8def8;
+  --md-sys-color-on-secondary-container: #1d192b;
+  --md-sys-color-tertiary: #7d5260;
+  --md-sys-color-on-tertiary: #ffffff;
+  --md-sys-color-tertiary-container: #ffd8e4;
+  --md-sys-color-on-tertiary-container: #31111d;
+  --md-sys-color-error: #b3261e;
+  --md-sys-color-on-error: #ffffff;
+  --md-sys-color-error-container: #f9dedc;
+  --md-sys-color-on-error-container: #410e0b;
+  --md-sys-color-background: #fffbfe;
+  --md-sys-color-on-background: #1c1b1f;
+  --md-sys-color-surface: #fffbfe;
+  --md-sys-color-on-surface: #1c1b1f;
+  --md-sys-color-surface-variant: #e7e0ec;
+  --md-sys-color-on-surface-variant: #49454f;
+  --md-sys-color-outline: #79747e;
+  --md-sys-color-inverse-on-surface: #f4eff4;
+  --md-sys-color-inverse-surface: #313033;
+  --md-sys-color-inverse-primary: #d0bcff;
+  --md-sys-color-shadow: #000000;
+
+  /* Elevation */
+  --md-sys-elevation-1: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  --md-sys-elevation-2: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  --md-sys-elevation-3: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  --md-sys-elevation-4: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  --md-sys-elevation-5: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+
+  /* Borders */
+  --md-sys-border-radius-small: 4px;
+  --md-sys-border-radius-medium: 8px;
+  --md-sys-border-radius-large: 16px;
+
+  /* Spacing */
+  --md-sys-spacing-xxs: 4px;
+  --md-sys-spacing-xs: 8px;
+  --md-sys-spacing-s: 12px;
+  --md-sys-spacing-m: 16px;
+  --md-sys-spacing-l: 24px;
+  --md-sys-spacing-xl: 32px;
+  --md-sys-spacing-xxl: 40px;
+
+  /* Typography */
+  --md-sys-typography-headline1-font-size: 96px;
+  --md-sys-typography-headline2-font-size: 60px;
+  --md-sys-typography-headline3-font-size: 48px;
+  --md-sys-typography-headline4-font-size: 34px;
+  --md-sys-typography-headline5-font-size: 24px;
+  --md-sys-typography-headline6-font-size: 20px;
+  --md-sys-typography-subtitle1-font-size: 16px;
+  --md-sys-typography-subtitle2-font-size: 14px;
+  --md-sys-typography-body1-font-size: 16px;
+  --md-sys-typography-body2-font-size: 14px;
+  --md-sys-typography-button-font-size: 14px;
+  --md-sys-typography-caption-font-size: 12px;
+  --md-sys-typography-overline-font-size: 10px;
+}
