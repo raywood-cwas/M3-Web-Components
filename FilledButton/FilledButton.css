@@ -1,0 +1,17 @@
+@import '../theme.css';
+
+.filled-button {
+  background-color: var(--md-sys-color-primary);
+  color: var(--md-sys-color-on-primary);
+  border: none;
+  border-radius: var(--md-sys-border-radius-small);
+  padding: var(--md-sys-spacing-s) var(--md-sys-spacing-m);
+  font-size: var(--md-sys-typography-button-font-size);
+  cursor: pointer;
+  transition: background-color 0.3s;
+  box-shadow: var(--md-sys-elevation-1);
+}
+
+.filled-button:hover {
+  background-color: var(--md-sys-color-primary-container);
+}
